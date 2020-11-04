@@ -1,0 +1,27 @@
+#section1{
+    color: blueviolet;
+}
+#section2{
+    color: brown;
+}
+a:link,a:visited{
+    background-color: cornflowerblue;
+    text-decoration: none;
+    display: block;
+    border: orchid 1px;
+    width: 200px;
+    color: black;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    text-align: center;
+
+}
+a:hover,a:active{
+    background-color: chartreuse;
+    color: darkcyan;
+}
+div p:nth-child(2) {
+   
+   color:Red;
+
+}
